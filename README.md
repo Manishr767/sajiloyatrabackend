@@ -1,4 +1,4 @@
-SajiloYatra: Your All-in-One Nepal Travel Companion
+SajiloYatra: Your All-in-One Nepal Travel Companion (https://sajiloyatra-frontend.vercel.app)
 
 SajiloYatra is a web application that replaces the chaos of Nepal travel planning with a single, trusted platform for discovering, booking, and experiencing the real Nepal.
 
